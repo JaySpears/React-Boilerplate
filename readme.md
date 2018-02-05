@@ -10,6 +10,7 @@ Technologies used: </br>
 Follow these two simple steps to initialize the application locally on your computer to start coding in minutes.</br>
 1. `npm install` **->** Installs dependencies. Babel, React, etc.
 2. `npm start` **->** Starts node server and spins up Webpack for file compilation and hot reload.
+Start coding! **->** `http://localhost:3000/`
 
 ### Client Code Architecture
 `index.jsx` **->** Root file for the React application. Initializes the Redux store, routes, etc.</br>
